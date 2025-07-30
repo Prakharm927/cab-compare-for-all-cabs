@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,51 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+ 🚖 Cab Compare — Compare Rides. Save More. 💸
+
+Welcome to Cab Compare, your one-stop platform to compare fares and ride options from India’s top cab services:  
+Uber, Ola, Rapido, and Namma Yatri – all in one sleek interface!
+
+ 🧠 Stop switching apps. Start comparing. Save every ride!
+
+---
+
+✨ Features
+
+✅ **Real-time fare comparison** across multiple platforms  
+✅ **Google Maps Distance Matrix API** for accurate travel distance  
+✅ **Intuitive UI** for quick location input  
+✅ **Designed for Indian metro cities** like Bangalore, Mumbai, Delhi & more  
+✅ **No login required** — just open and compare
+
+---
+
+🛠️ Tech Stack
+
+| Category      | Tech Used                          |
+|---------------|------------------------------------|
+| 🧩 Frontend    | HTML, CSS, JavaScript (Vanilla)     |
+| 🗺️ Maps API    | Google Maps Distance Matrix API     |
+| 🎨 Styling     | Responsive layout, clean UI design  |
+
+---
+
+🚀 Getting Started (Run Locally)
+
+Follow these steps to run the project on your local machine:
+
+```bash
+# 1. Clone this repository
+git clone https://github.com/your-username/cab-compare.git
+cd cab-compare
+
+# 2. Install dependencies
+npm install
+
+# 3. Add your Google Maps API key in the .env file
+VITE_GOOGLE_MAPS_API_KEY=your_api_key_here
+
+# 4. Start the development server
+npm run dev
+>>>>>>> 922e0d347591a1b8b416f6b89a7eb3e3e3e2b6dc
