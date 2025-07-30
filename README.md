@@ -48,3 +48,11 @@ VITE_GOOGLE_MAPS_API_KEY=your_api_key_here
 # 4. Start the development server
 npm run dev
 >>>>>>> 922e0d347591a1b8b416f6b89a7eb3e3e3e2b6dc
+
+
+---
+
+## 👤 Author
+
+**Your Name**  
+[GitHub](https://github.com/Prakharm927) • [LinkedIn](linkedin.com/in/prakhar-mishra468) • [Email](prakharmishra468@gmail.com)
