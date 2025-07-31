@@ -54,5 +54,5 @@ npm run dev
 
 ## 👤 Author
 
-**Your Name**  
+**Prakhar Mishra**  
 [GitHub](https://github.com/Prakharm927) • [LinkedIn](linkedin.com/in/prakhar-mishra468) • [Email](prakharmishra468@gmail.com)
