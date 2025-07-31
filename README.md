@@ -7,7 +7,7 @@ Welcome to **Cab Compare**, your one-stop platform to compare fares and ride opt
 
 ---
 
-## ✨ Features
+ ✨ Features
 
 ✅ **Real-time fare comparison** across multiple platforms  
 ✅ **Google Maps Distance Matrix API** for accurate travel distance  
@@ -17,7 +17,7 @@ Welcome to **Cab Compare**, your one-stop platform to compare fares and ride opt
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 | Category      | Tech Used                          |
 |---------------|------------------------------------|
@@ -27,7 +27,7 @@ Welcome to **Cab Compare**, your one-stop platform to compare fares and ride opt
 
 ---
 
-## 🚀 Getting Started (Run Locally)
+ 🚀 Getting Started (Run Locally)
 
 Follow these steps to run the project on your local machine:
 
@@ -52,7 +52,6 @@ npm run dev
 
 ---
 
-## 👤 Author
-
-**Prakhar Mishra**  
+ 👤 Author
+Prakhar Mishra
 [GitHub](https://github.com/Prakharm927) • [LinkedIn](linkedin.com/in/prakhar-mishra468) • [Email](prakharmishra468@gmail.com)
